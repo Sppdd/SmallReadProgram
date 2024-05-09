@@ -12,6 +12,8 @@ flask = "3.0.3"
 django = "5.0.4"
 biopython = "1.83"
 spyprot = "^0.8.8"
+blast-extract = "0.1.0"
+bio = "1.7.0"
 
 [tool.pyright]
 # https://github.com/microsoft/pyright/blob/main/docs/configuration.md
